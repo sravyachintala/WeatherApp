@@ -1,16 +1,7 @@
-# Minimus
+# WeatherApp
 
 
-![Minimus](https://miro.medium.com/max/3600/1*57lZyqXY85XSTYR3IuZKCg.png)
-
-
-## Tutorial Blog Posts On Medium
-
-
-- **Part I:** https://bit.ly/2IXMWdb
-
-- **Part II:** https://bit.ly/2P0c86Z
-
+![WeatherApp](https://miro.medium.com/max/3600/1*57lZyqXY85XSTYR3IuZKCg.png)
 
 ## Development server
 
